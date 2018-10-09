@@ -26,7 +26,7 @@ repositories {
 
 dependencies {
 
-    compile group: 'com.alibaba.boot', name: 'dubbo-spring-boot-starter', version: '0.1.0'
+    compile group: 'com.alibaba.boot', name: 'dubbo-spring-boot-starter', version: '0.2.0'
     compile group: 'com.github.sgroschupf', name: 'zkclient', version: '0.1'
 
     implementation('org.springframework.boot:spring-boot-starter-web')
